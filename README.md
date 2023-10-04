@@ -57,10 +57,10 @@ THEN I should have proper build scripts for a webpack application
 ## Review
 You are required to submit the following for review:
 
-The URL of the deployed application (heroku)
+heroku link -  https://peaceful-depths-70206-366d8c1cb5b5.herokuapp.com/
+
 
 Github Repo - https://github.com/Tyythedeveloper33/text-editor-pwa
-
 
 ## Getting Started
 To run the PWA Text Editor locally, follow these steps:
